@@ -1,0 +1,18 @@
+
+
+body{
+    background-color: rgba(209, 163, 10, 0.959);
+}
+.custom-btn{
+    font-size: 20px;
+    margin: 5px;
+    
+}
+.button{
+   
+   width: 100%;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+
+}
